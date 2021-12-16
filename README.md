@@ -1,17 +1,8 @@
-# devoir-git
-<<<<<<< HEAD
-# copier dans le fichier README.md
-Lamarque Maxence mlamarque21
-=======
-#21favin-leveque
-# les lignes produites par ce code
-<<<<<<< HEAD
-# VARESCON
-=======
->>>>>>> 43e970ba13440af3d370097ecc1a211b684e778a
 
->>>>>>> eb5ed978388c6f4b0bfa89dd540043d000d8dad4
-# mettez ici le nombre de personnes dans votre groupe
+#Lamarque Maxence mlamarque21
+#21favin-leveque
+# VARESCON
+# les lignes produites par ce code
 
 how_many_people = 4
 
