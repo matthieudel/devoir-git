@@ -1,5 +1,5 @@
 # devoir-git
-# copier dans le fichier README.md
+#21favin-leveque
 # les lignes produites par ce code
 # VARESCON
 # mettez ici le nombre de personnes dans votre groupe
