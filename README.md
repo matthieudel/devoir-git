@@ -1,7 +1,7 @@
 # devoir-git
 <<<<<<< HEAD
 # copier dans le fichier README.md
-Lamarque Maxence
+Lamarque Maxence mlamarque21
 =======
 #21favin-leveque
 # les lignes produites par ce code
