@@ -1,6 +1,6 @@
 # devoir-git
 # copier dans le fichier README.md
-# les lignes produites par ce code
+Lamarque Maxence
 
 # mettez ici le nombre de personnes dans votre groupe
 
